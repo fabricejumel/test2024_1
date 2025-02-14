@@ -1,0 +1,7 @@
+README.md
+setup.py
+Calculator/__init__.py
+calculator_projet.egg-info/PKG-INFO
+calculator_projet.egg-info/SOURCES.txt
+calculator_projet.egg-info/dependency_links.txt
+calculator_projet.egg-info/top_level.txt
